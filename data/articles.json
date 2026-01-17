@@ -1,4 +1,383 @@
 {
-  "generated_at": null,
-  "items": []
+  "generated_at_utc": "2026-01-17T22:19:47+00:00",
+  "items": [
+    {
+      "title": "Tracking algae and climate change from the sky with Arctic AIR",
+      "url": "https://www.pmel.noaa.gov/pmel-in-the-news/tracking-algae-and-climate-change-sky-arctic-air",
+      "source": "NOAA PMEL – In the News",
+      "published_at": "2025-09-25",
+      "summary": "A specialized plane, camera and a crew of four are in Alaska to understand the ecosystems of the Bering and Chukchi seas. UW CICOES / NOAA PMEL scientist Jiaxu Zhang, the ArcticAIR project lead, is quoted. Scientist(s): Dr. Jiaxu Zhang"
+    },
+    {
+      "title": "A method of addressing ocean acidification passes a first, small-scale test",
+      "url": "https://www.pmel.noaa.gov/featured-publication/method-addressing-ocean-acidification-passes-first-small-scale-test",
+      "source": "NOAA PMEL – Featured Publications",
+      "published_at": "2025-09-24",
+      "summary": "Savoie, A.M., M. Ringham, C. Torres Sanchez, B.R. Carter, S. Dougherty, R.A. Feely, D. Hegeman, J. Herndon, T. Khangaonkar, J. Loretz, T. Minck, T. Pelman, L. Premathilake, C. Subban, J. Vance, and N.D. Ward (2025): Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity. Front. Environ. Eng., 4, 1641277, doi: 10.3389/fenve.2025.1641277. September 25, 2025 Carefully enhanced wastewater could one day benefit coastal marine resources A researcher with the Pacific Northwest National Laboratory collects samples from Sequim Bay, Washington that will be "
+    },
+    {
+      "title": "Cooperation, not conflict on the High Seas",
+      "url": "https://www.pmel.noaa.gov/pmel-in-the-news/cooperation-not-conflict-high-seas",
+      "source": "NOAA PMEL – In the News",
+      "published_at": "2025-09-08",
+      "summary": "[Podcast] Today on Future Tense on ABC Radio National, we'll look at the progress of two ocean-related initiatives, efforts where nations, non-governed organizations, and companies, are coming together to build a framework for how we regulate and protect the oceans. Scientist(s): Dr. Meghan F. Cronin"
+    },
+    {
+      "title": "Raw data to reliable forecasts: PMEL's data management backbone",
+      "url": "https://www.pmel.noaa.gov/news-story/raw-data-reliable-forecasts-pmels-data-management-backbone",
+      "source": "NOAA PMEL – What’s New",
+      "published_at": "2025-09-04",
+      "summary": "As the 2025 hurricane season ramps up, NOAA will be testing small, uncrewed instrumented sailboats built by a robotics company to capture weather and ocean data in the path of tropical storms. The observations from these robots will help scientists understand how hurricanes do or don't intensify, which helps meteorologists provide better hurricane forecasts. Four Oshen C-Stars departing St. Thomas on the back of a deployment vessel for future observations of Atlantic hurricanes. Credit: Oshen"
+    },
+    {
+      "title": "NOAA Research models tsunamis to keep coastal communities safe",
+      "url": "https://www.pmel.noaa.gov/news-story/noaa-research-models-tsunamis-keep-coastal-communities-safe",
+      "source": "NOAA PMEL – What’s New",
+      "published_at": "2025-08-04",
+      "summary": "On Tuesday, July 29th, 2025, an 8.8 magnitude earthquake occurred off the Kamchatka Peninsula in Russia, triggering numerous tsunami alerts in Alaska, Hawaii, the U.S. west coast, and throughout the Pacific. Deep Ocean Assessment of Tsunami (DART) Easy to Deploy (ETD) buoy system."
+    },
+    {
+      "title": "Why did such a powerful earthquake produce such a weak tsunami?",
+      "url": "https://www.pmel.noaa.gov/pmel-in-the-news/why-did-such-powerful-earthquake-produce-such-weak-tsunami",
+      "source": "NOAA PMEL – In the News",
+      "published_at": "2025-07-30",
+      "summary": "The quake in Russia on Wednesday was among the strongest ever recorded — but in many places, the resulting wave was small. Scientist(s): Dr. Vasily Titov"
+    },
+    {
+      "title": "New research challenges current understanding of ocean's role in carbon uptake",
+      "url": "https://www.pmel.noaa.gov/featured-publication/new-research-challenges-current-understanding-oceans-role-carbon-uptake",
+      "source": "NOAA PMEL – Featured Publications",
+      "published_at": "2025-07-29",
+      "summary": "Frazão, H.C., U. Send, A.J. Sutton, M.D. Ohman, M. Lankhorst, T.R. Martz, and J. Sevadjian (2025). Open ocean versus upwelling regimes: Air-sea CO2 fluxes and pCO2 inter-annual variability in the Southern California Current System. J. Geophys. Res. Oceans, 130(7), e2024JC022126. https://doi.org/10.1029/2024JC022126 Song, R., T. DeVries, R. Li, A.J. Sutton, U. Send, and H.C. Frazão (2025). High-frequency correlations between winds and pCO2 change the California Coastal Upwelling System from a CO2 sink to a source. Geophys. Res. Lett., 52(14), e2025GL115470. https://doi.org/10.1029/2025GL115470 "
+    },
+    {
+      "title": "A Seaglider's epic journey challenges students to push their science further",
+      "url": "https://www.pmel.noaa.gov/pmel-in-the-news/seagliders-epic-journey-challenges-students-push-their-science-further",
+      "source": "NOAA PMEL – In the News",
+      "published_at": "2025-07-18",
+      "summary": "When a group of University of Washington students deployed an instrument called a Seaglider in the Pacific Ocean near the equator last November, it was their biggest mission yet. After the Seaglider launched, there was a week of coordination with other instruments deployed by UW Applied Physics Laboratory as well as equipment remotely operated by NOAA Pacific Marine Environmental Laboratory’s Ocean Climate Stations group."
+    },
+    {
+      "title": "New study reveals record heat and rapid cooling in equatorial Atlantic in 2024",
+      "url": "https://www.pmel.noaa.gov/pmel-in-the-news/new-study-reveals-record-heat-and-rapid-cooling-equatorial-atlantic-2024",
+      "source": "NOAA PMEL – In the News",
+      "published_at": "2025-07-16",
+      "summary": "Atlantic Niño/Niña events can influence hurricane development, but they can be difficult to predict. A new study sheds light on the oceanic chain reaction that can trigger these events, potentially improving our ability to forecast them. Study coauthored by PMEL's Mike McPhaden. Scientist(s): Dr. Michael McPhaden"
+    },
+    {
+      "title": "Uncrewed surface vehicles usher in new era of ocean observation",
+      "url": "https://www.pmel.noaa.gov/pmel-in-the-news/uncrewed-surface-vehicles-usher-new-era-ocean-observation",
+      "source": "NOAA PMEL – In the News",
+      "published_at": "2025-07-11",
+      "summary": "The Surface UNcrewed Fleet (SUN Fleet) – a new network of ocean robots – could solve longstanding scientific challenges. Scientist(s): Dr. Meghan F. Cronin"
+    },
+    {
+      "title": "Uncrewed Surface Vehicles go global: SUN fleet joins Global Ocean Observing System (GOOS) as a new emerging network",
+      "url": "https://www.pmel.noaa.gov/pmel-in-the-news/uncrewed-surface-vehicles-go-global-sun-fleet-joins-global-ocean-observing-system",
+      "source": "NOAA PMEL – In the News",
+      "published_at": "2025-07-11",
+      "summary": "A new emerging ocean observing network joins the Global Ocean Observing System (GOOS), marking a key step in expanding coordinated, global ocean surface observations. This fleet of Uncrewed Surface Vehicles, called SUN Fleet, is able to monitor numerous GOOS Essential Ocean Variables and measure important air-sea exchanges in remote areas and under harsh conditions. Scientist(s): Dr. Meghan F. Cronin"
+    },
+    {
+      "title": "Coastal Weather Buoy Enhancement",
+      "url": "https://www.pmel.noaa.gov/news-story/coastal-weather-buoy-enhancement",
+      "source": "NOAA PMEL – What’s New",
+      "published_at": "2025-06-13",
+      "summary": "Scientist(s): Dr. Meghan F. Cronin Nathan Anderson Patrick Berk Dr. Dongxiao Zhang On May 9, 2025, a research-enhanced weather buoy was deployed at 40.50°N 69.25°W for an expected observing period of one year. Working alongside a team of engineers and technicians at the National Data Buoy Center (NDBC), Dr. Yolande Serra's (UW/CICOES) project has enhanced weather buoy 44008 with additional surface and subsurface sensors. Approximate location of the enhanced NDBC 44008 weather buoy shown overlaid on an analysis of sea surface temperature in degree Celsius for 17 June 2025 from the NOAA Global R"
+    },
+    {
+      "title": "Tsunami threat looms over Washington's coast as researchers improve warning systems",
+      "url": "https://www.pmel.noaa.gov/pmel-in-the-news/tsunami-threat-looms-over-washingtons-coast-researchers-improve-warning-systems",
+      "source": "NOAA PMEL – In the News",
+      "published_at": "2025-06-02",
+      "summary": "Washington's coastal communities face a significant threat from tsunamis, with potential water heights reaching three stories in some areas following an offshore magnitude 9.0 earthquake. Scientist(s): Dr. Diego Arcas"
+    },
+    {
+      "title": "Nightfall no longer offers a reliable reprieve for western US firefighters",
+      "url": "https://www.pmel.noaa.gov/news-story/nightfall-no-longer-offers-reliable-reprieve-western-us-firefighters",
+      "source": "NOAA PMEL – What’s New",
+      "published_at": "2025-05-12",
+      "summary": "Scientist(s): Dr. Andrew M. Chiodi For decades, firefighting crews counted on falling temperatures and rising humidity at night to dampen wildfire activity, allowing them to rest, regroup and prepare for the next day. Over the last 20 years though, satellite measurements have confirmed a change reported in the western US by firefighters on the ground: a dramatic increase in nighttime fire activity by larger fires. Previous studies attributed the increase to warmer, drier nights, conditions that help to maintain the flammability of fuels. The Rum Creek fire burns vigorously after sunset near Me"
+    },
+    {
+      "title": "What the mysterious Bloop taught us about Antarctica",
+      "url": "https://www.pmel.noaa.gov/pmel-in-the-news/what-mysterious-bloop-taught-us-about-antarctica",
+      "source": "NOAA PMEL – In the News",
+      "published_at": "2025-05-12",
+      "summary": "Was the infamous \"bloop\" a sea monster? Learn why this noise was a good reminder that we should keep an eye on the South Pole."
+    },
+    {
+      "title": "Uncrewed surface vehicles offer the key to new frontiers in ocean science",
+      "url": "https://www.pmel.noaa.gov/featured-publication/uncrewed-surface-vehicles-offer-key-new-frontiers-ocean-science",
+      "source": "NOAA PMEL – Featured Publications",
+      "published_at": "2025-03-11",
+      "summary": "Patterson, R.G., M.F. Cronin, S. Swart, J. Beja, J.M. Edholm, J. McKenna, J.B. Palter, A. Parker, C.I. Addey, W. Boone, P. Bhuyan, J.J.H. Buck, E.F. Burger, J. Burris, L. Camus, B. de Young, M. du Plessis, M. Flanigan, G.R. Foltz, S.T. Gille, L. Grare, J.E. Hanson, L.R. Hole, M.C. Honda, V. Hormann, C. Kohlman, N. Kosaka, C. Kuhn, L. Lenain, L. Looney, A. Marouchos, E.K. McGeorge, C.R. McMahon, S. Mitarai, C. Mordy, A. Nagano, S.-A. Nicholson, S. Nickford, K.M. O'Brien, D. Peddie, L. Ponsoni, V. Ramasco, N. Rozenauers, E. Siddle, C. Stienbarger, A.J. Sutton, N. Tada, J. Thomson, I. Ueki, L. Yu"
+    },
+    {
+      "title": "Study: Improving prediction of Arctic outbreaks across the Northern Hemisphere",
+      "url": "https://www.pmel.noaa.gov/news-story/study-improving-prediction-arctic-outbreaks-across-northern-hemisphere",
+      "source": "NOAA PMEL – What’s New",
+      "published_at": "2025-01-07",
+      "summary": "Scientist(s): Dr. James E. Overland Dr. Muyin Wang Despite rapid Arctic warming, plan for more frigid spells New research on the Arctic confirms that even as the Arctic is warming faster than the rest of the world, cold-air outbreaks from the polar region will continue across the Northern Hemisphere in the coming decades. The big challenge now is to better understand what triggers these cold-air outbreak events and how to improve their predictability. Click image to see full graphic (Source: NOAA Climate.gov)"
+    },
+    {
+      "title": "The deadliest tsunami set off work to be ready for the next big wave",
+      "url": "https://www.pmel.noaa.gov/pmel-in-the-news/deadliest-tsunami-set-work-be-ready-next-big-wave",
+      "source": "NOAA PMEL – In the News",
+      "published_at": "2025-01-06",
+      "summary": "Experts said they were \"blind\" to the Indian Ocean tsunami in 2004. Twenty years later, working toward a world without tsunami deaths is a challenge. Scientist(s): Dr. Vasily Titov"
+    },
+    {
+      "title": "New twist on an old ocean circulation theory",
+      "url": "https://www.pmel.noaa.gov/featured-publication/new-twist-old-ocean-circulation-theory",
+      "source": "NOAA PMEL – Featured Publications",
+      "published_at": "2024-12-11",
+      "summary": "McPhaden, M.J., K. Athulya, M.S. Girishkumar, and M. Orlic (2024): Ekman revisited: Surface currents to the left of the winds in the Northern Hemisphere. Sci. Adv., 10(46), eadr0282, doi: 10.1126/sciadv.adr0282. November 13, 2024 Rare observations of surface currents to the left of winds in the Bay of Bengal The Bay of Bengal, with the location of the instrumented buoy shown by the blue dot. Credit Sarah Battle, NOAA PMEL Ekman revisited: Surface currents to the left of the winds in the Northern Hemisphere"
+    },
+    {
+      "title": "New surface ocean acidification indicators developed for large marine ecosystems of the United States",
+      "url": "https://www.pmel.noaa.gov/featured-publication/new-surface-ocean-acidification-indicators-developed-large-marine-ecosystems",
+      "source": "NOAA PMEL – Featured Publications",
+      "published_at": "2024-08-20",
+      "summary": "Sharp, J.D., L.-Q. Jiang, B.R. Carter, P.D. Lavin, H.L. Yoo, and S. Cross (2024): A mapped dataset of surface ocean acidification indicators in large marine ecosystems of the United States. Sci. Data, 11, 715, doi: 10.1038/s41597-024-03530-7. August 20, 2024 Humans generate about 36 billion tons of carbon dioxide pollution every year, about 30 percent of which are absorbed by the oceans. (a) Long-term averages (1998-2022) of surface ocean CO2 fugacity observations from SOCATv2023, binned into 0.25° × 0.25° monthly grid cells, which are used in the development of RFR-LMEs. (b-d) Long-term avera"
+    },
+    {
+      "title": "Why is the North Pacific warming so fast?",
+      "url": "https://www.pmel.noaa.gov/news-story/why-north-pacific-warming-so-fast",
+      "source": "NOAA PMEL – What’s New",
+      "published_at": "2024-08-02",
+      "summary": "Scientist(s): Dr. Michael McPhaden The North Pacific has warmed significantly faster than any other ocean basin on Earth since 2013, enduring two major marine heat waves in five years that had devastating effects on marine mammals, seabirds, as well as fisheries and the communities that rely on them. Oceanographers are asking \"What’s going on in the North Pacific?\" Sea lion pups were just one of the many types of wildlife to suffer when a large marine heatwave that became known as \"The Blob\" took hold in the Pacific Ocean off the West Coast. Credit: NMFS This data image shows the monthly avera"
+    },
+    {
+      "title": "Cascade of extreme events transforming Bering Sea, challenging communities",
+      "url": "https://www.pmel.noaa.gov/featured-publication/cascade-extreme-events-transforming-bering-sea-challenging-communities",
+      "source": "NOAA PMEL – Featured Publications",
+      "published_at": "2024-05-21",
+      "summary": "Overland, J.E., E. Siddon, G. Sheffield, T. Ballinger, and C. Szuwalski (2024): Transformative ecological and human impacts from climate change and diminished sea ice in the northern Bering Sea. Wea. Climate Soc., 16(2), 303–313, doi: 10.1175/WCAS-D-23-0029.1, View open access article at AMS. May 21, 2024 Unprecedentedly low sea ice cover in the northern Bering and Chukchi seas during back-to-back winters from 2018 to 2019 caused a cascade of impacts that abruptly transformed the regional marine ecosystem, compounding challenges faced by the communities that rely on it. History of the Bering S"
+    },
+    {
+      "title": "New research challenges assumptions of what triggered Hunga eruption",
+      "url": "https://www.pmel.noaa.gov/news-story/new-research-challenges-assumptions-what-triggered-hunga-eruption",
+      "source": "NOAA PMEL – What’s New",
+      "published_at": "2024-05-08",
+      "summary": "Scientist(s): Dr. Vasily Titov Sharon Walker The extraordinarily powerful eruption of Hunga volcano in the Tongan archipelago in the southern Pacific Ocean on January 15, 2022 blasted gas and ash 36 miles high, generating atmospheric gravity waves, two different types of destructive tsunamis, and the loudest atmospheric explosion recorded by modern instrumentation. It was one of the largest eruptions of the past 300 years. Initially, scientists suggested the explosion occurred when magma reacted violently with water that had infiltrated the caldera of the submarine volcano, or perhaps by the c"
+    },
+    {
+      "title": "Scientists detail research needed to assess the viability and risks of marine cloud brightening",
+      "url": "https://www.pmel.noaa.gov/news-story/scientists-detail-research-needed-assess-viability-and-risks-marine-cloud-brightening",
+      "source": "NOAA PMEL – What’s New",
+      "published_at": "2024-03-25",
+      "summary": "Scientist(s): Dr. Patricia K. Quinn As the levels of greenhouse gases in the atmosphere continue to increase and climate change impacts become more costly, the scientific community is redoubling efforts to investigate the potential risks and benefits of artificially shading Earth’s surface to slow global warming. Marine cloud brightening (MCB) proposals involve the injection of salt spray into shallow marine clouds to brighten them, increasing their reflection of sunlight and reducing the amount of heat absorbed by the water below. This diagram depicts the key aerosol, cloud, dynamics, and rad"
+    },
+    {
+      "title": "Filling a data gap in the tropical Pacific to reveal daily air-sea interactions",
+      "url": "https://www.pmel.noaa.gov/featured-publication/filling-data-gap-tropical-pacific-reveal-daily-air-sea-interactions",
+      "source": "NOAA PMEL – Featured Publications",
+      "published_at": "2024-03-25",
+      "summary": "Cronin, M.F., D. Zhang, S.M. Wills, J.E. Reeves Eyre, L.-A. Thompson, and N. Anderson (2024): Diurnal warming rectification in the tropical Pacific linked to sea surface temperature front. Nature Geosci., doi: 10.1038/s41561-024-01391-8, View open access article at Nature Publishing (external link). March 25, 2024 Over the past 20 years, researchers have been studying how the atmosphere reacts to changing ocean temperatures globally, sparking debates on the exact mechanisms at play. TPOS 2017 mission. Saildrone #1006 (SD1006) track, coloured by SST measured at 0.6 m."
+    },
+    {
+      "title": "Historic NOAA-Saildrone mission did more than set records. It’s helping scientists improve hurricane forecasts",
+      "url": "https://www.pmel.noaa.gov/news-story/historic-noaa-saildrone-mission-did-more-than-set-records-its-helping-scientists-improve",
+      "source": "NOAA PMEL – What’s New",
+      "published_at": "2024-01-23",
+      "summary": "Scientist(s): Dr. Andrew M. Chiodi Hurricane intensity predictions would benefit from timely, more accurate ocean temperature, salinity and wave measurements, NOAA researchers find. On September 30, 2021, a saildrone uncrewed surface vehicle made history by intercepting the eyewall of Hurricane Sam in the northwestern tropical Atlantic, recording a viral video of what it’s like to be tossed around by 100 mile-per-hour winds and 30-foot high waves. Saildrone 1045 docks in Bermuda after its historic mission into the eye of a Category 4 hurricane in 2021. Credit: Saildrone Inc. / Ali Hochberg/Ber"
+    },
+    {
+      "title": "Special issue of Oceanography explores the PMEL's history and accomplishments",
+      "url": "https://www.pmel.noaa.gov/news-story/special-issue-oceanography-explores-pmels-history-and-accomplishments",
+      "source": "NOAA PMEL – What’s New",
+      "published_at": "2023-11-08",
+      "summary": "Fifty years ago, NOAA created a new environmental research laboratory in Seattle with an initial focus on water quality in Puget Sound, and environmental studies of the Gulf of Alaska and Bering Sea. Since then, the Pacific Marine Environmental Laboratory has evolved into one of the world’s leading ocean research institutes, specializing in observing ocean conditions from tsunamis to changes in climate and ocean chemistry with the aid of innovative instrumentation and measurement strategies often developed by the lab. PMEL makes critical observations and conducts groundbreaking research to adv"
+    },
+    {
+      "title": "Special issue of Oceanography explores the lab's history and accomplishments",
+      "url": "https://www.pmel.noaa.gov/featured-publication/special-issue-oceanography-explores-labs-history-and-accomplishments",
+      "source": "NOAA PMEL – Featured Publications",
+      "published_at": "2023-11-02",
+      "summary": "Oceanography, Volume 36 (2-3) October 2023Pacific Marine Environmental Laboratory: 50 Years of Innovative Research in Oceanography November 02, 2023 Fifty years ago, NOAA created a new environmental research laboratory in Seattle with an initial focus on water quality in Puget Sound, and environmental studies of the Gulf of Alaska and Bering Sea. Special issue of Oceanography exploring 50 years of PMEL history and accomplishments. The cover illustration depicts many of the technologies that support research at the NOAA Pacific Marine Environmental Laboratory (PMEL). (Cover illustration with te"
+    },
+    {
+      "title": "International State of the Climate report confirms record-high greenhouse gases, global sea level, and ocean heat in 2022",
+      "url": "https://www.pmel.noaa.gov/featured-publication/international-state-climate-report-confirms-record-high-greenhouse-gases-global",
+      "source": "NOAA PMEL – Featured Publications",
+      "published_at": "2023-09-23",
+      "summary": "Ballinger, T.J., J.E. Overland, M. Wang, J.E. Walsh, B. Brettschneider, R.L. Thoman, U.S. Bhatt, E. Hanna, I. Hanssen-Bauer, and S.-J. Kim (2023): Surface air temperature, in State of the Climate in 2022, The Arctic. Bull. Am. Meteorol. Soc., 104(9), S279–S281, doi: 10.1175/10.1175/BAMS-D-23-0079.1, View online at AMS (external link). Benestad, R., R.L. Thoman, Jr., J.L. Cohen, J.E. Overland, E. Hanna, G.W.K. Moore, M. Rantanen, G.N. Petersen, and M. Webster (2023): 2022 extreme weather and climate events [Sidebar 5.1] , in State of the Climate in 2022. Bull. Am. Meteorol. Soc., 104(9), S285–S"
+    },
+    {
+      "title": "International State of the Climate in 2021 Released: record-high greenhouse gases, ocean heat content, and global sea level",
+      "url": "https://www.pmel.noaa.gov/featured-publication/international-state-climate-2021-released-record-high-greenhouse-gases-ocean",
+      "source": "NOAA PMEL – Featured Publications",
+      "published_at": "2022-09-23",
+      "summary": "Ballinger, T.J., J.E. Overland, R.L. Thoman, M. Wang, M.A. Webster, L.N. Boisvert, C.L. Parker, U.S. Bhatt, B. Brettschneider, E. Hanna, I. Hanssen-Bauer, S.-J. Kim, and J.E. Walsh (2022). Surface air temperature, in State of the Climate in 2021, The Arctic. Bull. Am. Meteorol. Soc., 103(8), S264–S267. Meier, W. N., D. Perovich, S. Farrell, C. Haas, S. Hendricks, A. Petty, M. Webster, D. Divine, S. Gerland, L. Kaleschke, R. Ricker, A. Steer, X. Tian-Kunze, M. Tschudi, and K. Wood (2022). Sea ice, in State of the Climate in 2021”, The Arctic. Bull. Amer. Meteor. Soc., 103 (8), S270–S273. Feely,"
+    },
+    {
+      "title": "The New NOAA Ocean Podcast",
+      "url": "https://oceanservice.noaa.gov/podcast/jan17/icymi-noaa-ocean-podcast.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2017-07-17",
+      "summary": "The Making Waves podcast has retired, but have no fear! We combined our Making Waves, Ocean Shorts, and Diving Deeper pods into one NEW podcast called NOAA Ocean. Subscribe in your favorite podcatcher so you never miss an episode. Just search for \"NOAA Ocean.\" If you are looking for an older Making Waves episode, head to oceanservice.noaa.gov/podcast to view our archive."
+    },
+    {
+      "title": "ANNOUNCEMENT: New NOAA Ocean Podcast",
+      "url": "https://oceanservice.noaa.gov/podcast/jan17/noaa-ocean-promo.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2017-01-09",
+      "summary": "The Making Waves podcast has retired, but have no fear! We combined our Making Waves, Ocean Shorts, and Diving Deeper podcasts into one NEW podcast called NOAA Ocean. Subscribe to the new podcast in your favorite podcatcher so you never miss an episode. Just search for \"NOAA Ocean.\" If you are looking for an older Making Waves episode, head to oceanservice.noaa.gov/podcast to view our archive."
+    },
+    {
+      "title": "Listen up: What you need to know about ocean noise. (Episode 138)",
+      "url": "https://oceanservice.noaa.gov/podcast/dec16/mw120816.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2016-12-08",
+      "summary": "What is ocean noise and what is NOAA doing to reduce this threat in our national marine sanctuaries? Many marine organisms, including marine mammals, sea turtles, fish and invertebrates, rely on sound and hearing for their survival. Over the last century, increases in human activity within our ocean have led to increasing levels of noise. This increasing amount of noise from human sources is a rising concern for the health and well-being of marine organisms and ecosystems. In this episode, we talk with NOAA marine ecologist Dr. Leila Hatch about her work to better understand the ocean soundsca"
+    },
+    {
+      "title": "Bringing Wetlands to Market: the Power of Blue Carbon in a Changing Climate (Episode 137)",
+      "url": "https://oceanservice.noaa.gov/podcast/aug16/mw080416.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2016-08-04",
+      "summary": "Money does not grow on trees, but it could be growing in our coastal salt marshes and sea grass beds. A team of researchers is working at Waquoit Bay Research Reserve on Cape Cod in Massachusetts on the \"Bringing Wetlands to Market\" project to study the connections between coastal wetlands, carbon dioxide uptake and storage, and the global carbon trading economy. Wetlands have the potential to serve as valuable assets in carbon trading markets – but only if we protect them, and don't dig up the treasure! Episode permanent link and show notes"
+    },
+    {
+      "title": "Charting New Waters: Video",
+      "url": "https://oceanservice.noaa.gov/podcast/may16/noaa-charting.mp4",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2016-05-23",
+      "summary": "Boaters rely on NOAA's nautical charts for depth measurements so they don't accidentally ground on sandbars or other underwater obstructions. Take three minutes out of your day to hear Captain Shepard Smith of the NOAA Ship Thomas Jefferson discuss how nautical charts are updated—and how NOAA is using promising new technology (ocean robots!) that will add shallow depths to nautical charts. Episode permanent link and show notes"
+    },
+    {
+      "title": "Connecting the Dots Between Corals and Humans (Episode 135)",
+      "url": "https://oceanservice.noaa.gov/podcast/mar16/mw032416.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2016-03-24",
+      "summary": "Coral reefs are under intense pressure from climate change, pollution, and unsustainable use. So what can we do about it? To answer that question, we need to better understand the main threat to our reefs. Humans. Episode permanent link and show notes"
+    },
+    {
+      "title": "Alaska: Marine Debris in the Wilderness (Episode 134)",
+      "url": "https://oceanservice.noaa.gov/podcast/jan16/mw012816.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2016-01-28",
+      "summary": "Alaska—the largest and most remote state in the United States—is filled with wilderness and beauty, and unfortunately with marine debris. With a longer coastline than all the other U.S. states combined, Alaska finds itself with the greatest concentration of marine debris in our country. In this episode, we learn just how challenging the issue of marine debris can be in the vast wilderness of this state, how the NOAA Marine Debris program is working to solve this problem, and how the key to beating this issue is in the innovation and ingenuity of the community working to address it. Episode per"
+    },
+    {
+      "title": "Data Makes a Difference (Episode 133)",
+      "url": "https://oceanservice.noaa.gov/podcast/nov15/mw111915.mp4",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2015-11-19",
+      "summary": "Take a virtual journey to Penobscot Bay, Maine, to see how harbor pilots use U.S. Integrated Ocean Observing System (IOOS®) data for real-time ocean and weather conditions. This information is critical for safe navigation as pilots carefully move tankers and other vessels often carrying dangerous cargo safely in and out of port. IOOS coastal and marine data (e.g., water temperature, water level, currents, winds, and waves) are collected by many different tools including satellites, buoys, tide gauges, radar stations, and underwater vehicles. Most of the data collected are streamed online and v"
+    },
+    {
+      "title": "Vertical Mapping and Atomic Clocks (Episode 132)",
+      "url": "https://oceanservice.noaa.gov/podcast/sep15/mw092415.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2015-09-24",
+      "summary": "Scientists at the National Institute of Standards and Technology, or NIST, are developing atomic clocks that are so accurate that the effects of the general theory of relativity come into play. That means if two of these clocks are at slightly different elevations—even a few centimeters—the higher clock runs noticeably faster. In this episode, find out why this is a problem for NIST, how the National Geodetic Survey helped to solve this problem, and how these amazing atomic clocks may someday play an important role in the science of geodesy. Episode permanent link and show notes"
+    },
+    {
+      "title": "World Ocean Day (Special Feature)",
+      "url": "https://oceanservice.noaa.gov/news/june15/wod.mp4",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2015-06-08",
+      "summary": "What do you know about our ocean? We bet you'll learn something new in this short video. Episode permanent link and show notes"
+    },
+    {
+      "title": "Trash Talk (Special Feature)",
+      "url": "https://oceanservice.noaa.gov/podcast/june15/trashtalk-makingwaves.mp4",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2015-06-08",
+      "summary": "Ocean Today is premiering this 15-minute TRASH TALK special feature for World Ocean Day. It is specially designed to be part of your World Ocean Day festivities and beyond. In addition to the video, we have a pre-recorded 10-minute webinar for educators that provides fun activities that you can organize after the film! A perfect event for museums, zoos, aquariums, learning centers and schools. Enjoy! Please note that this movie is a large file (260 MB). Episode permanent link and show notes"
+    },
+    {
+      "title": "Mapping an Ocean Ecosystem (Episode 131)",
+      "url": "https://oceanservice.noaa.gov/podcast/may15/mapping.mp4",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2015-05-20",
+      "summary": "Creating a habitat ecosystem map of the seafloor is a tricky process, but it's a key tool that scientists use to better understand our ocean. Learn more in this two-minute video. Episode permanent link and show notes"
+    },
+    {
+      "title": "Exploring the Unknown (Episode 130)",
+      "url": "https://oceanservice.noaa.gov/podcast/apr15/mw040115.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2015-04-01",
+      "summary": "Join us for an interview with oceanographer Tim Battista about mapping coral reef ecosystems in the U.S. Caribbean. Episode permanent link and show notes"
+    },
+    {
+      "title": "Shipwreck Detectives (Episode 129)",
+      "url": "https://oceanservice.noaa.gov/podcast/jan15/mw011515.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2015-01-15",
+      "summary": "A NOAA \"shipwreck detective\" talks about a two-year study to locate and document shipwrecks in Gulf of the Farallones National Marine Sanctuary and the surrounding area. Episode permanent link and show notes"
+    },
+    {
+      "title": "Measuring Water Levels with Microwaves (Episode 128)",
+      "url": "https://oceanservice.noaa.gov/podcast/oct14/100114.mp4",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2014-10-01",
+      "summary": "In this episode, we visit a research station perched at the end of a long pier in Duck, North Carolina, to get a close-up look at the microwave radar water level sensor--a revolutionary step forward in how NOAA measures water levels around the nation. Episode permanent link and show notes"
+    },
+    {
+      "title": "Arctic Shield (Episode 127)",
+      "url": "https://oceanservice.noaa.gov/podcast/aug14/mw081414.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2014-10-01",
+      "summary": "As sea ice continues to shrink in the Arctic, we’re likely to see more shipping, more oil exploration, more tourism, and more fishing. And all of this activity means that in the future, we’ll probably going have to deal with an oil spill in this remote region. So how do we prepare for that? The Coast Guard cutter Healy, a 420-foot-long icebreaker, is now heading north in answer to this question. The mission: an annual exercise called Arctic Shield led by the U.S. Coast Guard’s Research and Development Center. Onboard the Healy, scientists are gearing up to deal with a simulated oil spill in th"
+    },
+    {
+      "title": "Great Pacific Garbage Patch (Episode 126)",
+      "url": "https://oceanservice.noaa.gov/podcast/june14/mw062614.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2014-06-26",
+      "summary": "The Great Pacific Garbage Patch is one of many areas in the ocean where marine debris naturally concentrates because of ocean currents. In this episode, an expert from the NOAA Marine Debris Program explains what a garbage patch is and isn't, what we know and don't know, and what we can do about this ocean-sized problem. Episode permanent link and show notes"
+    },
+    {
+      "title": "Storm Surge (Episode 125)",
+      "url": "https://oceanservice.noaa.gov/podcast/may14/mw052914.mov",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2014-05-29",
+      "summary": "This is Making Waves from NOAA's National Ocean Service. Hurricane season runs from June 1 - November 30. You know that powerful winds are destructive and can be deadly during a hurricane. But did you know that the greatest threat to life actually comes from the water — in the form of storm surge. See for yourself with this video from NOAA's Ocean Today. Episode permanent link and show notes"
+    },
+    {
+      "title": "Coastal Blue Carbon (Episode 124)",
+      "url": "https://oceanservice.noaa.gov/podcast/may14/mw050814.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2014-05-08",
+      "summary": "Coastal Blue Carbon. Heard of it? A NOAA environmental scientist explains how certain small coastal areas play an outsized role in reducing climate change. Episode permanent link and show notes"
+    },
+    {
+      "title": "Motion in the Ocean (Episode 123)",
+      "url": "https://oceanservice.noaa.gov/podcast/apr14/mw042414.mov",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2014-04-24",
+      "summary": "You know about ocean tides, but how much do you know about ocean currents? Watch our three-minute video podcast to learn what puts the motion in the ocean. Episode permanent link and show notes"
+    },
+    {
+      "title": "The Exxon Valdez, 25 Years Later (Episode 122)",
+      "url": "https://oceanservice.noaa.gov/podcast/mar14/mw032114.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2014-03-21",
+      "summary": "Prior to the Deepwater Horizon spill in the Gulf of Mexico, the Exxon Valdez was the largest spill to ever occur in U.S. coastal waters. In this episode, we talk with NOAA marine biologist Gary Shigenaka to find out how marine life is faring today in Prince William Sound, Alaska. We also look at lessons we might learn from this environmental disaster in light of growing oil exploration and shipping traffic in the Arctic. Episode permanent link and show notes"
+    },
+    {
+      "title": "SoundScapes (Episode 121)",
+      "url": "https://oceanservice.noaa.gov/podcast/mar14/mw030614.mov",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2014-03-06",
+      "summary": "How do we use sound to 'see' the sea floor? Our latest podcast explains how sonar works and includes a great visualization that shows how sound data is used to make nautical charts. Episode permanent link and show notes"
+    },
+    {
+      "title": "Underwater but Unforgotten (Episode 120)",
+      "url": "https://oceanservice.noaa.gov/podcast/feb14/mw021314.mov",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2014-02-10",
+      "summary": "In this video episode: two Civil War-era sailors lost over 150 years ago aboard the U.S.S. Monitor are laid to rest. Don't miss this moving three-minute video brought to you by NOAA's Ocean Today. Episode permanent link and show notes"
+    },
+    {
+      "title": "'Hooked on Sharks' from NOAA Fisheries (Episode 119)",
+      "url": "https://oceanservice.noaa.gov/podcast/aug13/mw080813.mp3",
+      "source": "NOAA NOS – Making Waves",
+      "published_at": "2013-08-08",
+      "summary": "It's Shark Week! Tune in to hear 'Hooked on Sharks,' the latest episode of 'On the Line,' a new podcast from our colleagues at NOAA Fisheries. 'On the Line' features interviews with NOAA scientists who study fish, marine mammals, and other ocean life. In 'Hooked on Sharks,' we hear about a research project to see if a special type of hook can help vulnerable populations of sharks to survive. Episode permanent link and show notes"
+    }
+  ]
 }
